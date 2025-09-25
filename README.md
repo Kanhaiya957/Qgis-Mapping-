@@ -1,4 +1,4 @@
-# 🗺 Indian States Map  
+# 🗺 Indian States Map - Day - 1
 
 This project contains a *map of Indian States* created using *QGIS* and shapefiles.  
 Each state is represented with distinct colors and labeled for easy identification.  
